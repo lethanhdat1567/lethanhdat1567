@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lê Thành Đạt
+# Hi, I'm Le Thanh Dat
 
 ### Full-Stack Web Developer | PTIT Student
 
