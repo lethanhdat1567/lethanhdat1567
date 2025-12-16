@@ -16,7 +16,8 @@ I’m a full-stack web developer who enjoys building complete web applications, 
 
 📝 I occasionally write articles at **https://giaytranhung.vn**
 
-🌐 Connect with me
+#
+### 🌐 Connect with me
 <p align="left">
   <a href="https://github.com/lethanhdat1567" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
@@ -29,7 +30,8 @@ I’m a full-stack web developer who enjoys building complete web applications, 
   </a>
 </p>
 
-💻 Languages and Tools
+#
+### 💻 Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,redux,sass,tailwind" />
 </p>
