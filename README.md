@@ -32,5 +32,5 @@ I’m a full-stack web developer who enjoys building complete web applications, 
 #
 ### 💻 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,redux,sass,tailwind" />
+  <img src="https://skillicons.dev/icons?i==nextjs,express,mysql,tailwind" />
 </p>
