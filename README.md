@@ -12,9 +12,8 @@ I’m a full-stack web developer who enjoys building complete web applications, 
 
 📫 You can reach me at **lethanhdat1567@gmail.com**
 
-⚡ Fun fact: I enjoy turning ideas into real-world web applications.
+⚡ I enjoy turning ideas into real-world web applications.
 
-📝 I occasionally write articles at **https://giaytranhung.vn**
 
 #
 ### 🌐 Connect with me
